@@ -1,5 +1,4 @@
 # Core_java
-# Project Name
 
 Core java Programming with easy and understandable method .
 Beginner Level Java Programming.
